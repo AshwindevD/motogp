@@ -5,3 +5,13 @@ list-style-type:disk;}
 table,tr,td,th{border:3px solid;
 background-color:black;
 color:white;}
+h2{background-color:blue;
+text-align:center;
+color:white;}
+#achu{background-color:green;
+color:black;}
+.ashwin{backgroun-color:yellow;
+color:white;}
+table,tr,td,th{border:5px solid;
+border-collapse:collapse;}
+th,td{padding:20px;}
